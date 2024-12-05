@@ -2,7 +2,7 @@
   "name": "Meme Coin",
   "symbol": "MEME",
    "description": "We have launched a Meme Coin on the Solana blockchain, designed to be community-driven and focused on entertainment. This cryptocurrency brings the fun aspect of meme culture to the fast and low-cost transactions of the Solana network. Our goal is to engage users with a lighthearted way to experience the digital world while leveraging the speed and security of Solana. The coin's main appeal lies in its community involvement, meme-driven promotions, and the powerful capabilities of the Solana blockchain.",
-  "image": "https://github.com/ADARSh86Verma/spl--token--test/blob/main/meme%20coin%20final%20TOTAL.png?raw=true"
+  "image": "https://github.com/ADARSh86Verma/spl--token--test/blob/main/meme%20coin%20final%20TOTAL.png?raw=true",
   "attributes": [
     { "trait_type": "Vibes", "value": "Infinite" }
   ]
